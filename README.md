@@ -1,7 +1,6 @@
-
 # Housing Pricing Prediction 
 
-Housing prices are rising in recent years due to emerging inflation rates, it is more important than ever for people to make educated choices when it comes to real estate investments. Our research uses available "Housing Prices Dataset" for Boston to determine future prices based on the available features which will enable people to make reliable decisions. The dataset consists of various features related to the properties, including price, area, number of bedrooms, bathrooms, stories, and other factors that may influence housing prices. The objective of this project is to develop accurate prediction models that can assist in estimating housing prices.
+Housing prices are rising in recent years due to emerging inflation rates, it is more important than ever for people to make educated choices when it comes to real estate investments. Our research uses the available "Housing Prices Dataset" for Boston to determine future prices based on the available features which will enable people to make reliable decisions. The dataset consists of various features related to the properties, including price, area, number of bedrooms, bathrooms, stories, and other factors that may influence housing prices. The objective of this project is to develop accurate prediction models that can assist in estimating housing prices.
 
 ## Overview of the Dataset
 
@@ -25,22 +24,24 @@ Exploratory data analysis (EDA) is conducted to gain valuable insights into the 
 Machine learning techniques linear regression, decision tree regression, and Random Forest is used to develop predictive models for housing price estimation.
 
 #### Model Training:
-The prepared dataset is used to train the models using three machine learning algorithms (Linear Regression, Decision Tree, and Random Forest). The 10 fold cross-validation technique is employed to capture the underlying linear relationship between the features and the target variable, ensuring robust model evaluation and performance estimation.
+The prepared dataset is used to train the models using three machine learning algorithms (Linear Regression, Decision Tree, and Random Forest). The 10-fold cross-validation technique is employed to capture the underlying linear relationship between the features and the target variable, ensuring robust model evaluation and performance estimation.
 
 #### Model Evaluation: 
 Evaluate the trained models using commonly used evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R2 coefficient to assess their performance and accuracy in predicting housing prices.
 
 #### Results Interpretation: 
-The linear regression model performs the best among the three models, providing relatively lower prediction errors and a higher R-squared coefficient. The decision tree and random forest models exhibit higher errors and lower R-squared coefficients, indicating poorer performance compared to linear regression. However, it's important to note that the high MAE, MSE, and RMSE values are primarily due to the larger scale of the target variable "price" (in millions), and not necessarily indicative of poor model performance.
+The linear regression model performs the best among the three models, providing relatively lower prediction errors and a higher R-squared coefficient. The decision tree and random forest models exhibit higher errors and lower R-squared coefficients, indicating poorer performance compared to linear regression. However, it's important to note that the high MAE, MSE, and RMSE values are primarily due to the larger scale of the target variable "price" (in millions), and are not necessarily indicative of poor model performance.
 
-## Repository Content
+## 🔗 Links to Repository Content
 This repository includes the following files and directories:
 
-#### Dataset: 
+#### [Dataset](https://github.com/rabiadanish/CIND-820-Project/tree/main/Dataset/)
 Folder containing the housing prices dataset obtained from Kaggle.
-#### Reports: 
-Folder containing Abstract, Literature review, Project report and Project presentation.
-#### Coding: 
-Folder containing Google colab ipynb notebooks for Exploratory data analysis, Data Visualization, Machine learning Models.
-#### README.md: 
-This file, providing an overview of the project, its stages, and the content of the repository.
+#### [Reports](https://github.com/rabiadanish/CIND-820-Project/tree/main/Reports/) 
+Folder containing Abstract, Literature review, Project report, and Project presentation.
+#### [Coding](https://github.com/rabiadanish/CIND-820-Project/tree/main/Coding/) 
+Folder containing Google Colab ipynb notebooks for Exploratory data analysis, Data Visualization, and Machine learning Models.
+#### [README.md](https://github.com/rabiadanish/CIND-820-Project/blob/main/README.md/) 
+This file provides an overview of the project, its stages, and the content of the repository.
+
+
