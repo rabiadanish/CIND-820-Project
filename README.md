@@ -40,7 +40,7 @@ Folder containing the housing prices dataset obtained from Kaggle.
 #### [Reports](https://github.com/rabiadanish/CIND-820-Project/tree/main/Reports/) 
 Folder containing Abstract, Literature review, Project report, and Project presentation.
 #### [Coding](https://github.com/rabiadanish/CIND-820-Project/tree/main/Coding/) 
-Folder containing Google Colab ipynb notebooks for Exploratory data analysis, Data Visualization, and Machine learning Models.
+Folder containing Google Colab ipynb python notebooks for Exploratory data analysis, Data Visualization, and Machine learning Models.
 #### [README.md](https://github.com/rabiadanish/CIND-820-Project/blob/main/README.md/) 
 This file provides an overview of the project, its stages, and the content of the repository.
 
