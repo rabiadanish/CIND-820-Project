@@ -30,7 +30,7 @@ The prepared dataset is used to train the models using three machine learning al
 #### Model Evaluation: 
 Evaluate the trained models using commonly used evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R2 coefficient to assess their performance and accuracy in predicting housing prices.
 
-## Results Interpretation: 
+#### Results Interpretation: 
 The linear regression model performs the best among the three models, providing relatively lower prediction errors and a higher R-squared coefficient. The decision tree and random forest models exhibit higher errors and lower R-squared coefficients, indicating poorer performance compared to linear regression. However, it's important to note that the high MAE, MSE, and RMSE values are primarily due to the larger scale of the target variable "price" (in millions), and not necessarily indicative of poor model performance.
 
 ## Repository Content
