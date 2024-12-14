@@ -2,6 +2,8 @@
 
 Housing prices are rising in recent years due to emerging inflation rates, it is more important than ever for people to make educated choices when it comes to real estate investments. Our research uses the available "Housing Prices Dataset" for Boston to determine future prices based on the available features which will enable people to make reliable decisions. The dataset consists of various features related to the properties, including price, area, number of bedrooms, bathrooms, stories, and other factors that may influence housing prices. The objective of this project is to develop accurate prediction models that can assist in estimating housing prices.
 
+![image](https://github.com/user-attachments/assets/e9ed28b1-2b48-439a-af74-f4356826e12e)
+
 ## Overview of the Dataset
 
 The housing pricing dataset used in this project is sourced from Kaggle, a well-known platform for data science and machine learning. The dataset contains information about housing attributes such as area, number of bedrooms, bathrooms, stories, and other relevant features. The dataset is publicly available and can be accessed at Kaggle Housing Prices Dataset.
